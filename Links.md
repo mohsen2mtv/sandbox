@@ -2,6 +2,11 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 03:07 (IR Time)
+- 📥 **[AmneziaVPN_4.8.15.0_android9+_arm64-v8a.apk.zip](https://github.com/mohsen2mtv/sandbox/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip)**
+- 📥 **[AmneziaVPN_4.8.15.0_android9+_arm64-v8a.apk.zip](https://github.com/mohsen2mtv/sandbox/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip)**
+
+
 ### 📅 2026-04-27 03:04 (IR Time)
 - 📥 **[AmneziaVPN_4.8.15.0_android9+_arm64-v8a.apk.zip](https://github.com/mohsen2mtv/sandbox/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip)**
 - 📥 **[AmneziaVPN_4.8.15.0_android9+_arm64-v8a.apk.zip](https://github.com/mohsen2mtv/sandbox/raw/main/dl/AmneziaVPN_4.8.15.0_android9%2B_arm64-v8a.apk.zip)**
