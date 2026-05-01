@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-01 19:42 (IR Time)
+- 📥 **[Exclave-0.17.37-arm64-v8a.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/Exclave-0.17.37-arm64-v8a.apk)**
+
+
 ### 📅 2026-05-01 15:42 (IR Time)
 - 📥 **[thefeed-android-v0.13.3-arm64.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/thefeed-android-v0.13.3-arm64.apk)**
 
