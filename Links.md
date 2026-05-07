@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-08 01:24 (IR Time)
+- 📥 **[Exclave-0.17.39-arm64-v8a.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/Exclave-0.17.39-arm64-v8a.apk)**
+
+
 ### 📅 2026-05-08 01:06 (IR Time)
 - 📥 **[v2rayNG_2.0.18-fdroid_arm64-v8a.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/v2rayNG_2.0.18-fdroid_arm64-v8a.apk)**
 
