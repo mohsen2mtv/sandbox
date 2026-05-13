@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-13 23:34 (IR Time)
+- 📥 **[range-scout-v0.1.2-arm64-v8a-release-signed.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/range-scout-v0.1.2-arm64-v8a-release-signed.apk)**
+
+
 ### 📅 2026-05-08 01:29 (IR Time)
 - 📥 **[Exclave-0.17.39-arm64-v8a.apk](https://github.com/mohsen2mtv/sandbox/raw/main/dl/Exclave-0.17.39-arm64-v8a.apk)**
 
